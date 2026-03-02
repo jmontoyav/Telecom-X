@@ -39,3 +39,21 @@ Este estudio tiene como objetivo realizar un diagnóstico profundo sobre el comp
 </ul>
 
 # **📋 Estructura del Informe**
+<ol>
+  <li>Introducción</li>
+  <li>Objetivo</li>
+  <li>Limpieza y Tratamiento de Datos</li>
+  <li>Análisis Exploratorio de Datos</li>
+  <li>Conclusiones e Insights</li>
+  <li>Recomendaciones</li>
+</ol>
+
+# **🛠️ Cómo ejecutar el proyecto**
+<ol>
+  <li>Clona este repositorio.</li>
+  <li>Sube el archivo .ipynb a Google Colab.</li>
+  <li>Ejecuta todas las celdas para visualizar las funciones de diagnóstico y el informe final.</li>
+</ol>
+
+# **👨‍💻 Autor**
+Jose Luis Montoya Vargas
