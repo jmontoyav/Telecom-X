@@ -9,7 +9,7 @@ Este estudio tiene como objetivo realizar un diagnóstico profundo sobre el comp
 <ul>
   <li><strong>Lenguaje:</strong> Python 3.x</li>
   <li><strong>Entorno:</strong> Google Colab / Jupyter Notebooks</li>
-  <li><strong>Librerías Principales:</strong> Python 3.x</li>
+  <li><strong>Librerías Principales:</strong>/li>
   <ul>
     <li><strong>Pandas:</strong> Procesamiento y limpieza de datos anidados (JSON).</li>
     <li><strong>Matplotlib & Seaborn:</strong> Visualización avanzada y estilizada (Paleta Pastel).</li>
