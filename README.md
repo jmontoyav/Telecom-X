@@ -17,3 +17,25 @@ Este estudio tiene como objetivo realizar un diagnóstico profundo sobre el comp
     <li><strong>Scipy:</strong> Pruebas de varianza (Levene).</li>
   </ul>
 </ul>
+
+# **🚀 Ingeniería de Datos y Limpieza**
+<ol>
+  <li><strong>Flattening:</strong> Transformación de estructuras JSON complejas a DataFrames planos.</li>
+  <li><strong>Estandarización:</strong> Normalización de encabezados (snake_case) y tipos de datos.</li>
+  <li><strong>Codificación Binaria:</strong> Transformación de variables categóricas a valores numéricos (0 y 1) para análisis estadístico.</li>
+  <li><strong>Nuevas Métricas (Feature Engineering):</strong></li>
+  <ul>
+    <li><strong>Cuentas_Diarias:</strong> Normalización del costo del servicio por día.</li>
+    <li><strong>Cant_Servicios:</strong> Cuantificación del ecosistema de productos contratados.</li>
+  </ul>
+</ol>
+
+# **📈 Hallazgos Clave (Insights)**
+<ul>
+  <li>El riesgo de fuga es máximo en los primeros 12 meses.</li>
+  <li>Los clientes que abandonan tienen una antigüedad promedio de 17.98 meses, mientras que los leales superan los 37.57 meses.</li>
+  <li>Existe un umbral de dolor financiero; los clientes con mayor costo diario tienden a la evasión, independientemente de la cantidad de servicios adicionales.</li>
+  <li>Contratos mes a mes, tecnología de fibra óptica y pagos por cheque electrónico son los principales predictores de fuga.</li>
+</ul>
+
+# **📋 Estructura del Informe**
