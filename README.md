@@ -7,9 +7,9 @@ Este estudio tiene como objetivo realizar un diagnóstico profundo sobre el comp
 3.   ¿Qué factores financieros y temporales disparan la fuga de clientes?
 # **🛠️ Stack Tecnológico**
 <ul>
-  <li><strong>Lenguaje:</strong>Python 3.x</li>
-  <li><strong>Entorno:</strong>Google Colab / Jupyter Notebooks</li>
-  <li><strong>Librerías Principales:</strong>Python 3.x</li>
+  <li><strong>Lenguaje:</strong> Python 3.x</li>
+  <li><strong>Entorno:</strong> Google Colab / Jupyter Notebooks</li>
+  <li><strong>Librerías Principales:</strong> Python 3.x</li>
   <ul>
     <li><strong>Pandas:</strong> Procesamiento y limpieza de datos anidados (JSON).</li>
     <li><strong>Matplotlib & Seaborn:</strong> Visualización avanzada y estilizada (Paleta Pastel).</li>
